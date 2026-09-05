@@ -1,0 +1,8 @@
+{
+  "name": "GPT Store",
+  "description": "Curated directory and explorer for custom GPTs across categories with search, favorites, and community submissions",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

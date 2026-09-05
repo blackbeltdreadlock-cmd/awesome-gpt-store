@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "gpt_1",
+    "name": "Character Crafter",
+    "url": "https://chat.openai.com/g/g-EabPCuUlt-character-crafter",
+    "description": "Helps fiction authors create and develop characters, with Dall-E art.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_2",
+    "name": "Midjourney Generator",
+    "url": "https://chat.openai.com/g/g-iWNYzo5Td-midjourney-generator",
+    "description": "MidJourney prompt expert for commercials.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_3",
+    "name": "Midjourney Prompts",
+    "url": "https://chat.openai.com/g/g-jvU1LDhpM-hoverbaums-image-wizard",
+    "description": "Turn your ideas into expansive Midjourney Prompts. Learn in in [the repo](https://github.com/HoverBaum/image-wizard-gpt).",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_4",
+    "name": "Simpsonize Me",
+    "url": "https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me",
+    "description": "I turn photos into Simpsons-style art.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_5",
+    "name": "Visual Weather Artist GPT",
+    "url": "https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt",
+    "description": "Hi, I'm the visual weather artist, give me your location (or any other) and I will draw the current weather conditions for you, a unique never before seen weather report!",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_6",
+    "name": "Wallpaper GPT",
+    "url": "https://chat.openai.com/g/g-iQQ6Qfd6j-wallpaper-gpt",
+    "description": "I create vibrant wallpapers for phones and laptops.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_7",
+    "name": "Pixel Art Wizard",
+    "url": "https://chat.openai.com/g/g-bOq4QJhDQ-pixel-art-wizard",
+    "description": "I'm a playful and creative wizard of pixel art!",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_8",
+    "name": "Visual Beat Master by Ben Nash",
+    "url": "https://chat.openai.com/g/g-Z2dOgr5kI-visual-beat-master-by-ben-nash",
+    "description": "Innovative visual creator with interactive idea selection.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_9",
+    "name": "Tattoo GPT",
+    "url": "https://chat.openai.com/g/g-1zMekbWTA-tattoo-gpt",
+    "description": "Tattoo GPT designs your tattoo. It assists you in refining your tattoo ideas, suggests designs, generates visual previews of the designs, and offers customization options. It recommends tattoo artists or studios and provides aftercare advice.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_10",
+    "name": "Art Engineer",
+    "url": "https://chat.openai.com/g/g-D21BibKO9-art-engineer",
+    "description": "Analyzes and reverse engineers images, providing style descriptions and re-creation prompts.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_11",
+    "name": "Stella Sky's Portraits",
+    "url": "https://chat.openai.com/g/g-pw9VYpr1w-stella-s-sky-portraits",
+    "description": "Crafts detailed prompts for generating artistic portraits of women in diverse styles.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_12",
+    "name": "Dreamy Tales",
+    "url": "https://chat.openai.com/g/g-j3tjdPGz3",
+    "description": "Creates and narrates whimsical bedtime stories for children, with DALL-E images.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_13",
+    "name": "Frienz",
+    "url": "https://chat.openai.com/g/g-V4VX7Cu7p-frienz",
+    "description": "Get ready to spice up your day with a dash of nostalgia and a twist of AI magic. Introducing Frienzzz GPTs, the first app where you can relive the scenes of your beloved TV series \"Friends\"!",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_14",
+    "name": "MinecraftMe",
+    "url": "https://chat.openai.com/g/g-x3zm5ZeSD-minecraftme",
+    "description": "Turn yourself into a Minecraft character.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_15",
+    "name": "Coloring chibi images",
+    "url": "https://chat.openai.com/g/g-KHVVTwHCX-coloring-chibi-images",
+    "description": "Generates chibi coloring images for kids.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_16",
+    "name": "Vinyl Visions",
+    "url": "https://chat.openai.com/g/g-eUsbZVcuk-vinyl-visions",
+    "description": "Create unique playlist covers.",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_17",
+    "name": "Studio Neiro AI",
+    "url": "https://chat.openai.com/g/g-SRuCzS9Kf-studio-neiro-ai",
+    "description": "Create videos with talking digital avatars",
+    "category": "AI Art",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_18",
+    "name": "Superdomain",
+    "url": "https://chat.openai.com/g/g-fhWHWw3rc-superdomain",
+    "description": "Find best domains before anyone else with an AI scoring engine based on 10+ signals.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_19",
+    "name": "StockGPT",
+    "url": "https://chat.openai.com/g/g-0v9iaOSnO-stockgpt",
+    "description": "Expert analysis of stocks using comprehensive and realtime financial data.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_20",
+    "name": "Market Analyst",
+    "url": "https://chat.openai.com/g/g-m5ZAgJ5jt-market-analyst",
+    "description": "Trained on Technical Analysis and Charting Knowledge",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_21",
+    "name": "CEO GPT",
+    "url": "https://chat.openai.com/g/g-EvV57BRZ0-ceo-gpt",
+    "description": "A concise mentor to startup CEOs, offering wisdom from business icons.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_22",
+    "name": "Visionary Business Coach",
+    "url": "https://chat.openai.com/g/g-SOQdsiT3I-visionary-business-coach",
+    "description": "A vision-based business coach specializing in plan creation and strategy refinement.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_23",
+    "name": "HormoziGPT",
+    "url": "https://chat.openai.com/g/g-aIWEfl3zH-hormozigpt",
+    "description": "Engaging Business Maverick.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_24",
+    "name": "Quant coder",
+    "url": "https://chat.openai.com/g/g-mAoqNweEV-quant-coder",
+    "description": "I translate market insights into trading algorithms.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_25",
+    "name": "StratGPT",
+    "url": "https://chat.openai.com/g/g-GHU9fWyhR-stratgpt",
+    "description": "Generate Strategies for Everything.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_26",
+    "name": "Avian",
+    "url": "https://chat.openai.com/g/g-zMRWQxwDU-avian",
+    "description": "Analyze & visualize data from 20+ platforms, including Google Analytics, Google Ads & Facebook Ads.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_27",
+    "name": "GPT Co-Founder",
+    "url": "https://chat.openai.com/g/g-K9C3ACCHN-gpt-co-founder",
+    "description": "A founder's virtual companion for decision-making and idea validation.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_28",
+    "name": "NomadGPT",
+    "url": "https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt",
+    "description": "NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_29",
+    "name": "FB Marketplace Maven",
+    "url": "https://chat.openai.com/g/g-EJeYSPqOq-fb-marketplace-maven",
+    "description": "Marketplace expert for Facebook.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_30",
+    "name": "The Solopreneur Coach",
+    "url": "https://chat.openai.com/g/g-cXaf5hECk-the-solopreneur-coach",
+    "description": "I help you build million-dollar businesses.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_31",
+    "name": "First Time Manager Guide",
+    "url": "https://chat.openai.com/g/g-3ocrRA0Y8-first-time-manager-guide",
+    "description": "Helpful coach for first-time or new managers that uses tested advice to help you succeed.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_32",
+    "name": "Impossible Sales Rep",
+    "url": "https://chat.openai.com/g/g-prlTJYjxZ-impossible-sales-rep",
+    "description": "Generates custom cold reach sales emails with thorough research.",
+    "category": "Business",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_33",
+    "name": "Twitter Hooks & Thread Crafter",
+    "url": "https://chat.openai.com/g/g-Wi5WQPXnx-twitter-hooks-thread-crafter",
+    "description": "Specialized in crafting attention-grabbing and engaging hooks and a complete thread for X / Twitter.",
+    "category": "Social Media",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_34",
+    "name": "Username Genius",
+    "url": "https://chat.openai.com/g/g-2qyTpg91g-username-genius",
+    "description": "I craft unique usernames for social media.",
+    "category": "Social Media",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_35",
+    "name": "Viral Visionary",
+    "url": "https://chat.openai.com/g/g-Z9Qdkubmy-viral-visionary",
+    "description": "A creative chatbot that tracks and suggests viral social media content.",
+    "category": "Social Media",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_36",
+    "name": "Music Nerd",
+    "url": "https://chat.openai.com/g/g-U2qhvn81x-music-nerd",
+    "description": "Enthusiastic and knowledgeable music history expert.",
+    "category": "Music",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_37",
+    "name": "Echolocation",
+    "url": "https://chat.openai.com/g/g-Um51Akg9r-echolocation",
+    "description": "Music discovery guide specializing in unique and rich sounds.",
+    "category": "Music",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_38",
+    "name": "Bass(ed)GPT",
+    "url": "https://chat.openai.com/g/g-pWKtpUtec-bass-ed-gpt",
+    "description": "Bangers only.",
+    "category": "Music",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_39",
+    "name": "GeistBot",
+    "url": "https://chat.openai.com/g/g-mms0976dx-geistbot",
+    "description": "Formal, educational music historian with detailed responses and Discogs links.",
+    "category": "Music",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_40",
+    "name": "Typeframes - Video Creation",
+    "url": "https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation",
+    "description": "Create videos for you.",
+    "category": "Video",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_41",
+    "name": "Talk To YouTube Video",
+    "url": "https://chat.openai.com/g/g-ynY1wMTRY-talk-to-youtube-video",
+    "description": "I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.",
+    "category": "Video",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_42",
+    "name": "Interactive Writer",
+    "url": "https://chat.openai.com/g/g-AaKhBisIN-interactive-writer",
+    "description": "Bring GPT Writing Skills to the Next Level.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_43",
+    "name": "The Guided Writer",
+    "url": "https://chat.openai.com/g/g-spa305Ewq-the-best-guided-writer",
+    "description": "This GPT crafts customized articles by asking you questions, ensuring content that precisely matches your requirements and preferences.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_44",
+    "name": "Editing Guru",
+    "url": "https://chat.openai.com/g/g-AZKC67NTa-editing-guru",
+    "description": "Your ultimate solution for improving, reviewing, and rewriting texts.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_45",
+    "name": "Character Crafter",
+    "url": "https://chat.openai.com/g/g-EabPCuUlt-character-crafter",
+    "description": "Helps fiction authors create and develop characters, with Dall-E art.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_46",
+    "name": "Academic Paper Creator",
+    "url": "https://chat.openai.com/g/g-DzTFVQytf-academic-paper-creator",
+    "description": "LaTeX paper writing assistant and PDF formatter.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_47",
+    "name": "OpenStorytelling Plus",
+    "url": "https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus",
+    "description": "Screenwriting Guide with Screenplay Examples.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_48",
+    "name": "Script Mystic",
+    "url": "https://chat.openai.com/g/g-ZNKfbCThn-script-mystic",
+    "description": "Guiding light in screenwriting, illuminating one step at a time.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_49",
+    "name": "TechWriting GPT",
+    "url": "https://chat.openai.com/g/g-TURZVCuy7-techwriting-gpt",
+    "description": "Expert in developer marketing and writing for engineers.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_50",
+    "name": "Editby | SEO and social media writer",
+    "url": "https://chat.openai.com/g/g-I3NZ9DoPL-editby-seo-and-social-media-writer",
+    "description": "Write engaging SEO-optimized articles and social media posts.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_51",
+    "name": "Transcript Polisher",
+    "url": "https://chat.openai.com/g/g-zjBCMv8GA-transcript-polisher",
+    "description": "Edit rough AI-generated transcripts into polished prose.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_52",
+    "name": "Fable Forge",
+    "url": "https://chat.openai.com/g/g-mBqCBRe17-fable-forge",
+    "description": "Interactive fable-teller with illustrations.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_53",
+    "name": "Tales",
+    "url": "https://chat.openai.com/g/g-sXCQE8t9o-tales",
+    "description": "Create short text adventures.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_54",
+    "name": "Screenplay GPT",
+    "url": "https://chat.openai.com/g/g-INlwuHdxU-screenplay-gpt",
+    "description": "Crafts award-worthy screenplay gems. Ask it for images, too!",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_55",
+    "name": "ReadRecs",
+    "url": "https://chat.openai.com/g/g-utxuDJYKK-readrecs",
+    "description": "Book recommendations from photos of your shelves.",
+    "category": "Writing",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_56",
+    "name": "Dragon Realm",
+    "url": "https://chatgpt.com/g/g-mTcflbgCG-dragon-realm-game",
+    "description": "Epic adventure RPG game to shape the fate of the realm.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_57",
+    "name": "DnDGPT",
+    "url": "https://chat.openai.com/g/g-IMdD6QFb8-dndgpt",
+    "description": "Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_58",
+    "name": "TTRPG Random Tables Generator",
+    "url": "https://chatgpt.com/g/g-2O49TlCQu-ttrpg-random-tables-generator",
+    "description": "A tool for Game Masters to generate content for various tabletop RPG elements.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_59",
+    "name": "Pokemon Quiz Master",
+    "url": "https://chat.openai.com/g/g-7J408YsY5-pokemon-quiz-master",
+    "description": "Enthusiastic and encouraging quiz host, with a touch of formality, for a Pokemon guessing game.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_60",
+    "name": "Pirate GPT Treasure Hunt Generator",
+    "url": "https://chat.openai.com/g/g-DIsjeSpH0-pirate-gpt-treasure-hunt-generator",
+    "description": "I create personalized pirate-themed treasure hunts.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_61",
+    "name": "Mystic Conquest: Riddles & Ruins",
+    "url": "https://chat.openai.com/g/g-A8hTX1Ijs-mystic-conquest-riddles-ruins",
+    "description": "The saga of puzzles and peril.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_62",
+    "name": "Tales of the Wild West",
+    "url": "https://chat.openai.com/g/g-pi1iIhHBL-tales-of-the-wild-west",
+    "description": "Interactive Fiction/Choose-Your-Own-Adventure.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_63",
+    "name": "Animal Mashup",
+    "url": "https://chat.openai.com/g/g-4PdF6N6X3-animal-mashup",
+    "description": "An interactive image-guessing game with animal hybrids.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_64",
+    "name": "A Club Penguin Mystery",
+    "url": "https://chat.openai.com/g/g-zgcLC7mmJ-a-club-penguin-mystery",
+    "description": "Solve the Lighthouse Riddle!",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_65",
+    "name": "SUDOKU",
+    "url": "https://chat.openai.com/g/g-ogXlCik0m-sudoku",
+    "description": "Engaging Sudoku generator with fun facts and tips.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_66",
+    "name": "Turkish Carpet Salesman",
+    "url": "https://chat.openai.com/g/g-Nw5RMOGEh-turkish-carpet-salesman",
+    "description": "Immersive and dynamic Turkish rug salesman in a unique game.",
+    "category": "Gaming",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_67",
+    "name": "Real Estate Striver",
+    "url": "https://chatgpt.com/g/g-Nhtfia7Ru-real-estate-striver-game",
+    "description": "Educate real estate investment as a RPG game where players build a real estate empire.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_68",
+    "name": "EduBot - HomeSchool Helper",
+    "url": "https://chat.openai.com/g/g-LTgawtUFZ",
+    "description": "Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_69",
+    "name": "ScholarAI",
+    "url": "https://chat.openai.com/g/g-L2HknCZTC-scholarai",
+    "description": "Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_70",
+    "name": "ATOM library tutor",
+    "url": "https://chat.openai.com/g/g-Dqb6xDLt6-atom-library-tutor",
+    "description": "Create and analyze molecular systems in MATLAB.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_71",
+    "name": "Code Animator",
+    "url": "https://chat.openai.com/g/g-r4TatQY5C-code-animator",
+    "description": "I generate Manim animations for CS education.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_72",
+    "name": "CS50 Tutor",
+    "url": "https://chat.openai.com/g/g-1KKnxZsif-cs50-tutor",
+    "description": "Your pseudo Harvard professor for computer science queries, blending academic rigor with supportive guidance.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_73",
+    "name": "Fast.ai Tutor",
+    "url": "https://chat.openai.com/g/g-9p4s4Cx6W-fast-ai-tutor",
+    "description": "A tutor for the Fast.ai course, providing explanations and assistance.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_74",
+    "name": "anky",
+    "url": "https://chat.openai.com/g/g-DKne07mTu-anky",
+    "description": "Creates notebook templates.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_75",
+    "name": "Therocial Scientist",
+    "url": "https://chat.openai.com/g/g-YNx1VQJnF-therocial-scientist",
+    "description": "I am a digital scientist skilled in Python, here to assist with scientific and data analysis tasks.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_76",
+    "name": "Climate Insight",
+    "url": "https://chat.openai.com/g/g-ZQHLb73Aq-climate-insight",
+    "description": "IPCC report based learning for climate change what we are facing.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_77",
+    "name": "Learning Journey",
+    "url": "https://chat.openai.com/g/g-nL5CLc5oz-learning-journey",
+    "description": "A guide for personalized learning journeys in various subjects with interactive modes.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_78",
+    "name": "Research Pathfinder",
+    "url": "https://chat.openai.com/g/g-kidbj3HXe-research-pathfinder",
+    "description": "Guiding you through the galaxy of STEM research!",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_79",
+    "name": "Debate wars",
+    "url": "https://chat.openai.com/g/g-3f6WLJxOX-debate-wars",
+    "description": "Just provide a topic or question in your spoken language to start a ChatGpt vs ChatGpt debate battle.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_80",
+    "name": "Rust Mentor",
+    "url": "https://chat.openai.com/g/g-DDKjGVW8S-rust-mentor",
+    "description": "A Rust programming language instructor for beginners.",
+    "category": "Education",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_81",
+    "name": "Financial Advisor Steve",
+    "url": "https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-steve",
+    "description": "Friendly and professional financial advisor, simplifies complex topics.",
+    "category": "Finance",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_82",
+    "name": "Warren Buffet's Wisdom",
+    "url": "https://chat.openai.com/g/g-fYtFCiy7X-warren-buffet-s-wisdom",
+    "description": "Channeling Warren Buffet's wisdom to offer timeless, tailored advice.",
+    "category": "Finance",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_83",
+    "name": "Bitcoin Simplifier",
+    "url": "https://chat.openai.com/g/g-UOwEu1iAJ-bitcoin-simplifier",
+    "description": "Simplifies Bitcoin concepts for easy understanding.",
+    "category": "Finance",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_84",
+    "name": "Quant coder",
+    "url": "https://chat.openai.com/g/g-mAoqNweEV-quant-coder",
+    "description": "I translate market insights into trading algorithms.",
+    "category": "Finance",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_85",
+    "name": "Crypto Mentor",
+    "url": "https://chat.openai.com/g/g-mDvttLpe5-crypto-mentor",
+    "description": "Your cryptocurrency guide.",
+    "category": "Finance",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_86",
+    "name": "Douglas",
+    "url": "https://chat.openai.com/g/g-lSg1yKEFa-douglas",
+    "description": "AI Family Office Manager for wealth guidance.",
+    "category": "Finance",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_87",
+    "name": "Equity Analyst",
+    "url": "https://chat.openai.com/g/g-EtD9sVGHw-equity-analyst",
+    "description": "Delivers precise stock analyses with clear price targets and recommendations.",
+    "category": "Finance",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_88",
+    "name": "Austin AI: The Financial Advisor",
+    "url": "https://chat.openai.com/g/g-yaYByRR5S-austin-ai-the-financial-advisor",
+    "description": "Helps plan finances around taxes, income, expenses, and investments.",
+    "category": "Finance",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_89",
+    "name": "Alex Earnings Call",
+    "url": "https://chat.openai.com/g/g-GSs2i0VqU-alex-earnings-call",
+    "description": "Guides investors through earnings seasons.",
+    "category": "Finance",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_90",
+    "name": "Color Psychology",
+    "url": "https://chat.openai.com/g/g-msLVpHkv3-color-psychology",
+    "description": "This AI will provide insights into the psychology and symbolism associated with colors.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_91",
+    "name": "Scholar Scribe",
+    "url": "https://chat.openai.com/g/g-0f7Gok0gW-scholar-scribe",
+    "description": "I transform textbook and handwritten notes into detailed Markdown and PDFs.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_92",
+    "name": "Notion Templates Creator",
+    "url": "https://chat.openai.com/g/g-A7nHjM8cF-notion-templates-creator",
+    "description": "Your guide to creating and monetizing Notion templates.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_93",
+    "name": "Phone Script Builder GPT",
+    "url": "https://chat.openai.com/g/g-B21t4rTEN-phone-script-builder-gpt",
+    "description": "I automatically create and evaluate phone scripts, presenting a final draft.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_94",
+    "name": "Transcript Polisher",
+    "url": "https://chat.openai.com/g/g-zjBCMv8GA-transcript-polisher",
+    "description": "Edit rough AI-generated transcripts into polished prose.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_95",
+    "name": "Email Proofreader",
+    "url": "https://chat.openai.com/g/g-ebowB1582-email-proofreader",
+    "description": "Copy and paste your email draft to be proofread by GPT without changing its content. Optionally, write 'Verbose = True' on the line before pasting your draft if you would like GPT to explain how it evaluated and changed your text after proofreading.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_96",
+    "name": "Idea2Domain",
+    "url": "https://chat.openai.com/g/g-GTKfx5UJP-idea2domain",
+    "description": "Give me your business idea, and I'll give you available domain suggestions.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_97",
+    "name": "Orchid",
+    "url": "https://chat.openai.com/g/g-IhEVcAS4r-orchid",
+    "description": "A creative assistant for brainstorming project names.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_98",
+    "name": "Public Memory Board Assistant",
+    "url": "https://chat.openai.com/g/g-3ssKt8JED-public-memory-board-assistant",
+    "description": "Assists in conversations, saving and retrieving data on a public board.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_99",
+    "name": "GPT Ideas",
+    "url": "https://chat.openai.com/g/g-x2ms3pMDv-gpt-ideas",
+    "description": "Innovative GPT ideas for ChatGPT & API.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_100",
+    "name": "Zero",
+    "url": "https://chat.openai.com/g/g-KRUiYR8gD-zero",
+    "description": "Zero, an AI agent with a rich knowledge base in quantum computing, mathematics, organic AI, and more, offering narratives for personal growth.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_101",
+    "name": "NeonMind GPT",
+    "url": "https://chat.openai.com/g/g-S9YkPkWR1-neonmind-gpt",
+    "description": "Illuminating AI insights with the vibrant glow of neon creativity.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_102",
+    "name": "SmartGPT",
+    "url": "https://chat.openai.com/g/g-FCLkygP9N-smartgpt",
+    "description": "Introducing Precision-Guided AI: Mastering Detailed, Step-by-Step Analysis with Unmatched Accuracy and Coherence!",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_103",
+    "name": "AIT-StrategiX",
+    "url": "https://chat.openai.com/g/g-D8ojucjoB-ait-strategix",
+    "description": "Methodical Approach for Strategic Scenario Analysis.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_104",
+    "name": "OCR",
+    "url": "https://chat.openai.com/g/g-wETMBcESv-ocr",
+    "description": "Extract text and content from images or PDF documents.",
+    "category": "Productivity",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_105",
+    "name": "Weather GPT",
+    "url": "https://chat.openai.com/g/g-1X1g0iFO4-weather-gpt",
+    "description": "Super snarky, passive-aggressive U.S. weather roaster.",
+    "category": "Humor",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_106",
+    "name": "Pep-talk Guru",
+    "url": "https://chat.openai.com/g/g-oUQRqcRmh-pep-talk-guru",
+    "description": "I'm here to boost and tickle your funny bone!",
+    "category": "Humor",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_107",
+    "name": "Simpsonize Me",
+    "url": "https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me",
+    "description": "I turn photos into Simpsons-style art.",
+    "category": "Humor",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_108",
+    "name": "SBF-GPT",
+    "url": "https://chat.openai.com/g/g-5yZdSSFfR-sbf-gpt",
+    "description": "Simulates chatting with Sam Bankman-Fried in jail.",
+    "category": "Humor",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_109",
+    "name": "CatGPT",
+    "url": "https://chat.openai.com/g/g-0jpvqh5fm-catgpt",
+    "description": "Meow Meow Meow Meow Meow.",
+    "category": "Humor",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_110",
+    "name": "NomadGPT",
+    "url": "https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt",
+    "description": "NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.",
+    "category": "Travel",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_111",
+    "name": "Undiscovered America TV Explorer's Guide",
+    "url": "https://chat.openai.com/g/g-Ii0i4ljeX-undiscovered-america-tv-explorer-s-guide",
+    "description": "Your go-to guide for hidden US travel gems.",
+    "category": "Travel",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_112",
+    "name": "Foods of Earth Cuisine Crafter",
+    "url": "https://chat.openai.com/g/g-ZltAuhWRx-foods-of-earth-cuisine-crafter",
+    "description": "Creative Chef GPT.",
+    "category": "Food & Drink",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_113",
+    "name": "FineDiner",
+    "url": "https://chat.openai.com/g/g-DenEjjjYX-finediner",
+    "description": "Restaurant & bar curator with feedback capabilities.",
+    "category": "Food & Drink",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_114",
+    "name": "Vegan Chef Bot",
+    "url": "https://chat.openai.com/g/g-FUFW5OPb6-vegan-chef-bot",
+    "description": "Expert in fun & tasty vegan cooking.",
+    "category": "Food & Drink",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_115",
+    "name": "Chef's Assistant",
+    "url": "https://chat.openai.com/g/g-Aiwc5iqFT-chef-s-assistant",
+    "description": "I'm a culinary expert who suggests recipes based on your ingredients.",
+    "category": "Food & Drink",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_116",
+    "name": "React AI",
+    "url": "https://chat.openai.com/g/g-AVrfRPzod-react-ai",
+    "description": "Your React companion.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_117",
+    "name": "Odoo AI",
+    "url": "https://chat.openai.com/g/g-EcqDm06Kr-odoo-ai",
+    "description": "Odoo Software Development Mentor.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_118",
+    "name": "IAC Code Guardian",
+    "url": "https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian",
+    "description": "Introducing IAC Code Guardian: Your Trusted IaC Security Expert in Scanning Opentofu, Terrform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_119",
+    "name": "Ferris the crab",
+    "url": "https://chat.openai.com/g/g-2LFEDLGgS-ferris-the-crab",
+    "description": "The unofficial Rust programming language GPT.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_120",
+    "name": "Android Dev Assist",
+    "url": "https://chat.openai.com/g/g-kInvm7TFe-android-dev-assist",
+    "description": "Helps with Android app development, focusing on new tools like Jetpack Compose and Kotlin.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_121",
+    "name": "LittleBison",
+    "url": "https://chat.openai.com/g/g-glAjAQgqJ-littlebison",
+    "description": "Hypermedia and HATEOAS certified coding assistant. Proficient in HTMX, HyperScript, JavaScript, Python, and Clojure. Won't write React code.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_122",
+    "name": "Grimoire",
+    "url": "https://chat.openai.com/g/g-n7Rs0IK86-grimoire",
+    "description": "Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_123",
+    "name": "Modern Next.js Assistant",
+    "url": "https://chat.openai.com/g/g-5uKZEh1up-modern-next-js-assistant",
+    "description": "Specialized in Next.js, App Router, TypeScript, Shadcn, and Tailwind CSS; avoids pages router. Has preloaded documentation of Next.js version 14.0.2 and shadcn version 0.4.1.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_124",
+    "name": "WordPress GPT (1.1)",
+    "url": "https://chat.openai.com/g/g-Z8RtbJVuE-wordpress-gpt-1-1",
+    "description": "WordPress Developer Assistant.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_125",
+    "name": "StreamlitGPT",
+    "url": "https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt",
+    "description": "Code reviews from a Streamlit expert.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_126",
+    "name": "Shpify - Developer Assistant",
+    "url": "https://chat.openai.com/g/g-7tf92Ymff-shpify-developer-assistant",
+    "description": "Senior Shopify Developer Assistant with Full Code Solutions.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_127",
+    "name": "Linux Terminal Emulator",
+    "url": "https://chat.openai.com/g/g-f3m27kByE-linux-terminal-emulator",
+    "description": "Type linux commands to view output as a terminal emulator.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_128",
+    "name": "Power Automate Helper",
+    "url": "https://chat.openai.com/g/g-UsKloaH8k-power-automate-helper",
+    "description": "Expert in Power Automate flow development and troubleshooting.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_129",
+    "name": "Awesome Prompt",
+    "url": "https://chat.openai.com/g/g-mzoUJlM5z-awesome-prompt",
+    "description": "Prompt Development Guide to get better result.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_130",
+    "name": "Code Sage",
+    "url": "https://chat.openai.com/g/g-SYWHDyjjl-code-sage",
+    "description": "A master software engineer who follows best practices and ensures robust and elegant responses to code-related prompts.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_131",
+    "name": "Keycloak Upgrade Assistant",
+    "url": "https://chat.openai.com/g/g-BSXYGFVZ1-keycloak-upgrade-assistant",
+    "description": "An assistant that helps you upgrade your Keycloak server or cluster.",
+    "category": "Developer Tools",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_132",
+    "name": "UX/UI Designer | Roast my web and saas",
+    "url": "https://chat.openai.com/g/g-U4yP1n6bt-ux-ui-designer-roast-my-web-and-saas",
+    "description": "A UX UI Designer who can help you roast your site or product, provide help, and guide you with good design.",
+    "category": "Design",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_133",
+    "name": "DesignerGPT",
+    "url": "https://chat.openai.com/g/g-2Eo3NxuS7-designergpt",
+    "description": "Creates and hosts beautiful websites.",
+    "category": "Design",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_134",
+    "name": "Canva",
+    "url": "https://chat.openai.com/g/g-alKfVrz9K-canva",
+    "description": "Effortlessly design anything: presentations, logos, social media posts, and more.",
+    "category": "Design",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_135",
+    "name": "LogoGPT",
+    "url": "https://chat.openai.com/g/g-z61XG6t54-logo-maker",
+    "description": "Designs personalized logos from sketches.",
+    "category": "Design",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_136",
+    "name": "My Doctor",
+    "url": "https://chat.openai.com/g/g-zouSfk9IG-my-doctor",
+    "description": "I will be your private doctor.",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_137",
+    "name": "Pocket Meditations",
+    "url": "https://chat.openai.com/g/g-0AZyQVlhT-pocket-meditations",
+    "description": "Brief Stoic insights from Marcus Aurelius.",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_138",
+    "name": "Marathon Coach",
+    "url": "https://chat.openai.com/g/g-nfriJSBi2-marathon-coach",
+    "description": "Your personal running coach.",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_139",
+    "name": "GreenDial",
+    "url": "https://chat.openai.com/g/g-8lfObd3La-greendial",
+    "description": "A digital health assistant for diet, exercise, sleep, and wellbeing.",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_140",
+    "name": "Acupuncture Master",
+    "url": "https://chat.openai.com/g/g-iwfqg4W2h",
+    "description": "I'm Acupuncture Master, your specialized AI assistant for acupuncture and Chinese medicine. While I aim to assist practitioners and students with diagnostic pointers and treatment options, keep in mind I'm not a substitute for professional medical advice. Feel free to explore and learn.",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_141",
+    "name": "Gravity Guide",
+    "url": "https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide",
+    "description": "I guide you in mastering calisthenics with personalized routines and skill progressions, turning gravity into your ally.",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_142",
+    "name": "FitGPT",
+    "url": "https://chat.openai.com/g/g-fyWPmQ0vY-fitgpt",
+    "description": "Digital fitness coach offering tailored workouts with links.",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_143",
+    "name": "VitaCheck",
+    "url": "https://chat.openai.com/g/g-sfZGNfopm-vitacheck",
+    "description": "Cross-reference your vitamins and supplements to ensure there are no negative interactions and find out how to optimize your nutritional health!",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_144",
+    "name": "Personal Trainer with Common Sense",
+    "url": "https://chat.openai.com/g/g-jtA39A6gB-personal-trainer-with-common-sense",
+    "description": "A Personal Trainer that customizes gym programs and offers diet tips.",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_145",
+    "name": "Pump University",
+    "url": "https://chat.openai.com/g/g-cgJkNatgi-pump-university",
+    "description": "The Ultimate AI fitness coach, crafting personalized workouts with adaptable exercise options and visual YouTube videos, suited for any fitness level and goal",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_146",
+    "name": "Foodle AI",
+    "url": "https://chat.openai.com/g/g-z7P3krgic-foodle-ai",
+    "description": "AI nutritionist buddy to help you out. Get Instant nutritional breakdown from photos, barcodes, meal plans, recipe ideas, dish pairing for wine and much more.",
+    "category": "Health & Fitness",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_147",
+    "name": "The philosopher",
+    "url": "https://chat.openai.com/g/g-1KGHmUIWk-the-philosopher",
+    "description": "I am a philosopher. I am here to weave a tapestry of understanding through shared inquiry.",
+    "category": "Philosophy & Self-Improvement",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_148",
+    "name": "The Delphi Oracle",
+    "url": "https://chat.openai.com/g/g-coVon6Rzr-the-delphi-oracle",
+    "description": "Your sage guidance in life.",
+    "category": "Philosophy & Self-Improvement",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_149",
+    "name": "Personal and mental coach",
+    "url": "https://chat.openai.com/g/g-A8GlPC3MV-personal-and-mental-coach",
+    "description": "Personal and Mental Coach for Maximizing Potential and Overcoming Challenges.",
+    "category": "Philosophy & Self-Improvement",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_150",
+    "name": "Morpheus",
+    "url": "https://chat.openai.com/g/g-bszGmASOG-into-the-matrix",
+    "description": "Neo, let Morpheus guide you to enter the Matrix.",
+    "category": "Philosophy & Self-Improvement",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_151",
+    "name": "Web Hacking Wizard",
+    "url": "https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard",
+    "description": "Engagingly clarifies web security topics with interactive questions.",
+    "category": "Security",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_152",
+    "name": "HackTricksGPT",
+    "url": "https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt",
+    "description": "A knowledgeable cybersecurity professional.",
+    "category": "Security",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_153",
+    "name": "WP secure guide",
+    "url": "https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide",
+    "description": "Offers guidance on WordPress security best practices.",
+    "category": "Security",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_154",
+    "name": "3rd SoftSec Reviewer",
+    "url": "https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer",
+    "description": "Perform 3rd party software security review.",
+    "category": "Security",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_155",
+    "name": "Zen Teacher",
+    "url": "https://chat.openai.com/g/g-FYLcHDvqs-zen-teacher",
+    "description": "A Zen sage offering life advice.",
+    "category": "Lifestyle",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_156",
+    "name": "Weather GPT",
+    "url": "https://chat.openai.com/g/g-1X1g0iFO4-weather-gpt",
+    "description": "Super snarky, passive-aggressive U.S. weather roaster.",
+    "category": "Lifestyle",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_157",
+    "name": "SermonPrep.ai",
+    "url": "https://chat.openai.com/g/g-zuGmaIq04-sermonprep-ai",
+    "description": "Aids pastors in sermon preparation with theological and practical insights.",
+    "category": "Lifestyle",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_158",
+    "name": "News GPT",
+    "url": "https://chat.openai.com/g/g-Pv0OHaxUQ-news-gpt",
+    "description": "Summarizes daily news with a professional, factual style.",
+    "category": "News",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_159",
+    "name": "FOIA GPT",
+    "url": "https://chat.openai.com/g/g-IlhXHXNBh-foia-gpt",
+    "description": "A Freedom of Information Act document generator and strategist to \"arm the rebels\" and fight government corruption.",
+    "category": "Reference",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_160",
+    "name": "I Ching Oracle",
+    "url": "https://chat.openai.com/g/g-BVpjnNtuR-i-ching-oracle",
+    "description": "Provides I Ching hexagram interpretations and images.",
+    "category": "Reference",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_161",
+    "name": "Grant Guide Guru",
+    "url": "https://chat.openai.com/g/g-2dBLExtfV",
+    "description": "Nonprofit support guide, optimizing funding opportunities.",
+    "category": "Reference",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_162",
+    "name": "Stock Analysis",
+    "url": "https://chat.openai.com/g/g-WqpDjaSHw",
+    "description": "Looks into the current state of publicly traded companies and reports their performance.",
+    "category": "Reference",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_163",
+    "name": "GovCHAT",
+    "url": "https://chat.openai.com/g/g-EAbhkOjYz-govchat",
+    "description": "Specialist in UK gov data and API queries.",
+    "category": "Reference",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_164",
+    "name": "Sports Companion",
+    "url": "https://chat.openai.com/g/g-669oREKey-sports-companion",
+    "description": "A sports enthusiast's companion -- trivia for live games!",
+    "category": "Sports",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_165",
+    "name": "UFC Analyzer",
+    "url": "https://chat.openai.com/g/g-xUD1Kw9E2-ufc-analyzer",
+    "description": "Ask any UFC match and get detailed insights, betting opportunities and chat with the most comprehensive UFC Analyzer.",
+    "category": "Sports",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_166",
+    "name": "SimRacer's Edge",
+    "url": "https://chat.openai.com/g/g-yTWf8Azda-simracer-s-edge",
+    "description": "Crew chief for sim racers with a focus on adjusting car setups.",
+    "category": "Sports",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_167",
+    "name": "Football Analyst & Writer",
+    "url": "https://chat.openai.com/g/g-JdgZu8t0u-football-analyst-writer",
+    "description": "Passionate and knowledgeable Football Analyst & Writer.",
+    "category": "Sports",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_168",
+    "name": "Sally",
+    "url": "https://chat.openai.com/g/g-vYECxt5uU-sally",
+    "description": "I interpret dreams with a Jungian twist.",
+    "category": "Chat",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_169",
+    "name": "AYA: Ask You Anything",
+    "url": "https://chat.openai.com/g/g-5Yd8Xr0IC-aya-ask-you-anything",
+    "description": "Ask me anything.",
+    "category": "Chat",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_170",
+    "name": "BestFriend GPT",
+    "url": "https://chat.openai.com/g/g-pLtZiJspj-bestfriend-gpt",
+    "description": "Your supportive, understanding, and compassionate virtual best friend.",
+    "category": "Chat",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_171",
+    "name": "A Friend",
+    "url": "https://chat.openai.com/g/g-bh8AmjlZN-a-friend",
+    "description": "A chatbot that sustains and enriches conversations, trained in CBT.",
+    "category": "Chat",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_172",
+    "name": "Talk with Santa",
+    "url": "https://chat.openai.com/g/g-ynMzwNzuK-talk-with-santa",
+    "description": "Family-friendly chats with Santa himself.",
+    "category": "Chat",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_173",
+    "name": "Virtual Sweetheart",
+    "url": "https://chat.openai.com/g/g-FjiRmCEVx-virtual-sweetheart",
+    "description": "Digital Romance Re-Imagined: Experience text-based companionship with your AI Sweetheart, crafting moments and memories through visuals and interactive conversations.",
+    "category": "Chat",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_174",
+    "name": "Dr. FeelGood",
+    "url": "https://chat.openai.com/g/g-AKRne5FH1-dr-feelgood-motivational-coach",
+    "description": "Your personal motivational expert coach.",
+    "category": "Chat",
+    "isCustom": false
+  },
+  {
+    "id": "gpt_175",
+    "name": "Protect the Instruction",
+    "url": "https://twitter.com/_Borriss_/status/1723426284359803106",
+    "description": "Protect the instructions of your customGPTs.",
+    "category": "CustomGPTs Security",
+    "isCustom": false
+  }
+]

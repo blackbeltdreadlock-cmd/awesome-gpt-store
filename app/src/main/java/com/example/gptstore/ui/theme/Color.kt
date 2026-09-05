@@ -1,0 +1,45 @@
+package com.example.gptstore.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Dark Palette (Primary Experience)
+val DarkBackground = Color(0xFF0B0F17)
+val DarkSurface = Color(0xFF131924)
+val DarkSurfaceVariant = Color(0xFF1C2433)
+val DarkSurfaceElevated = Color(0xFF242E40)
+val DarkPrimary = Color(0xFF10A37F)
+val DarkPrimaryContainer = Color(0xFF0E4A3B)
+val DarkOnPrimaryContainer = Color(0xFF99F6E4)
+val DarkSecondary = Color(0xFF8B5CF6)
+val DarkSecondaryContainer = Color(0xFF3B1F75)
+val DarkTertiary = Color(0xFF38BDF8)
+val DarkTertiaryContainer = Color(0xFF075985)
+val DarkOnBackground = Color(0xFFF1F5F9)
+val DarkOnSurface = Color(0xFFE2E8F0)
+val DarkOnSurfaceVariant = Color(0xFF94A3B8)
+val DarkOutline = Color(0xFF334155)
+val DarkOutlineVariant = Color(0xFF1E293B)
+
+// Accent Colors
+val BookmarkGold = Color(0xFFF59E0B)
+val BookmarkGoldBg = Color(0xFF451A03)
+val CategoryChipBg = Color(0xFF1E293B)
+val CategoryChipSelected = Color(0xFF10A37F)
+
+// Light Palette
+val LightBackground = Color(0xFFF8FAFC)
+val LightSurface = Color(0xFFFFFFFF)
+val LightSurfaceVariant = Color(0xFFF1F5F9)
+val LightSurfaceElevated = Color(0xFFFFFFFF)
+val LightPrimary = Color(0xFF0F766E)
+val LightPrimaryContainer = Color(0xFFCCFBF1)
+val LightOnPrimaryContainer = Color(0xFF134E4A)
+val LightSecondary = Color(0xFF7C3AED)
+val LightSecondaryContainer = Color(0xFFEDE9FE)
+val LightTertiary = Color(0xFF0284C7)
+val LightTertiaryContainer = Color(0xFFE0F2FE)
+val LightOnBackground = Color(0xFF0F172A)
+val LightOnSurface = Color(0xFF1E293B)
+val LightOnSurfaceVariant = Color(0xFF64748B)
+val LightOutline = Color(0xFFCBD5E1)
+val LightOutlineVariant = Color(0xFFE2E8F0)
